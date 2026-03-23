@@ -28,7 +28,7 @@ This repository contains all the source code and final reports for the final yea
 **Guide:** Dr. Amitha Mathew
 
 ### Group 12
-**Project:** [Seizure Localization Using Quantum Algorithms]([GROUP-12-Seizure Localization Using Quantum Algorithms](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Seizure%20Localization%20Using%20Quantum%20Algorithms))
+**Project:** Seizure Localization Using Quantum Algorithms([GROUP-12-Seizure Localization Using Quantum Algorithms](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Seizure%20Localization%20Using%20Quantum%20Algorithms))
 **Members:**
 - Colin Pradeep (U2203072)
 - Franklin Davis Achandy (U2203094)
