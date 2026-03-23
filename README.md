@@ -7,7 +7,7 @@ This repository contains all the source code and final reports for the final yea
 ## Projects
 
 ### Group 6
-**Project:** TITAN: Trash Interception and Termination Autonomous Navigator
+**Project:** [TITAN: Trash Interception and Termination Autonomous Navigator](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
 **Members:**
 - George Emmanuel Thomas (U2203098)
 - Essa P J (U2203089)
