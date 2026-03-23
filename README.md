@@ -27,6 +27,17 @@ This repository contains all the source code and final reports for the final yea
 **Guide:** Dr. Jincy J. Fernandez
 
 ---
+### Group 15
+**Project:** [Corporate Email Summarization and Task Extraction](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2015%20Corporate%20Email%20Summarization%20and%20Task%20Extraction)
+**Members:**
+- Eby J Kavungal (U2203085)
+- Elena Thomas Kochupurakal (U2203087)
+- Meera Santhosh (U2203141)
+
+**Guide:** Ms. Meenu Mathew
+
+---
+
 
 > **Note for other groups:** 
 > Please remember to update this `README.md` file to add your own group's details and a link to your project folder when you upload your project source code and reports!
