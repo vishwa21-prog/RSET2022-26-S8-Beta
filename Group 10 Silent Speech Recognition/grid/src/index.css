@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap');
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+/* Your custom styles come after all @imports */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+@theme {
+  --font-sans: "Gabarito", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #16aaaf;
+  --color-secondary: #f7f8fa;
+  --color-background: #000000;
+  --color-primary-dark: #0f7a7d;
+}
+
+html, body {
+  font-family: var(--font-sans);
+  background-color: var(--color-background);
+  color: var(--color-secondary);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  @apply text-[4rem] font-bold mb-4;
+}
+h2 {
+  @apply text-3xl font-semibold mb-3;
+}
+h3 {
+  @apply text-2xl font-medium mb-2;
+}
+
+.perspective {
+  perspective: 1000px;
+}
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+@theme inline {
+  --animate-first: moveVertical 30s ease infinite;
+  --animate-second: moveInCircle 20s reverse infinite;
+  --animate-third: moveInCircle 40s linear infinite;
+  --animate-fourth: moveHorizontal 40s ease infinite;
+  --animate-fifth: moveInCircle 20s ease infinite;
+
+  @keyframes moveHorizontal {
+    0% {
+      transform: translateX(-50%) translateY(-10%);
+    }
+    50% {
+      transform: translateX(50%) translateY(10%);
+    }
+    100% {
+      transform: translateX(-50%) translateY(-10%);
+    }
+  }
+
+  @keyframes moveInCircle {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(180deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes moveVertical {
+    0% {
+      transform: translateY(-50%);
+    }
+    50% {
+      transform: translateY(50%);
+    }
+    100% {
+      transform: translateY(-50%);
+    }
+  }
+}
+
+.ribbons-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.aurora-container {
+  width: 100%;
+  height: 100%;
+}

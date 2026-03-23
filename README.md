@@ -41,6 +41,17 @@ This repository contains all the source code and final reports for the final yea
 
 **Guide:** Dr. Amitha Mathew
 ---
+### Group 10
+**Project:** [Silent Speech Recognition for the Voiceless](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2010%20Silent%20Speech%20Recognition)
+**Members:**
+- Darsan P (U2203074)
+- Fathima Meharin Irshad (U2203093)
+- Geevar Saji Kuriakose (U2203096)
+- Giribala Arun (U2203099)
+
+**Guide:** Ms. Jisha Mary Jose
+
+---
 ### Group 15
 **Project:** [Corporate Email Summarization and Task Extraction](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2015%20Corporate%20Email%20Summarization%20and%20Task%20Extraction)
 **Members:**
