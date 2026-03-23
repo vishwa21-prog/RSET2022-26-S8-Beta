@@ -1,0 +1,7 @@
+*.safetensors
+*.bin
+*.pt
+*.pkl
+node_modules/
+venv/
+__pycache__/
