@@ -18,5 +18,16 @@ This repository contains all the source code and final reports for the final yea
 
 ---
 
+### Group 18
+**Project:** [Dark Web Threat Monitoring Crawler](https://github.com/levi-aureus/RSET2022-26-S8-Beta.git)
+**Members:**
+- Diya Vypana (U2203081)
+- Jithin Shabu (U2203114)
+- Levana P Saju (U2203133)
+- Mathew Dominic (U2203138)
+
+**Guide:** Dr. Jomina John
+
+
 > **Note for other groups:** 
 > Please remember to update this `README.md` file to add your own group's details and a link to your project folder when you upload your project source code and reports!
