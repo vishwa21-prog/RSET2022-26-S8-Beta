@@ -7,6 +7,20 @@ This repository contains all the source code and final reports for the final yea
 ## Projects
 ---
 
+### Group 1 
+
+*Project:* [SWEEPX:Solar Panel Cleaning Drone](https://github.com/jacobthh/RSET2022-26-S8-Beta/tree/main/SweepX-Group%201) 
+*Members:* 
+
+- E A Aamil Haq (U2203084) 
+- Farhan Noushad (U2203092) 
+- Jacob Thomas  (U2203107) 
+- Mohammed Shafi (U2203143) 
+
+*Guide:* Mr. Biju Abraham Narayamparambil
+
+---
+
 ### Group 2
 
 **Project:** [Corporate Device Control Suite](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%202%20Corporate%20Device%20Control%20Suite)

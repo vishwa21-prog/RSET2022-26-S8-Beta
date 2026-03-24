@@ -1,0 +1,10 @@
+build/
+install/
+log/
+.vscode/
+*.pyc
+__pycache__/
+**/bin/arduino-cli
+**/*.bak
+**/*.hex
+**/*.elf
