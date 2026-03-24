@@ -46,7 +46,7 @@ This repository contains all the source code and final reports for the final yea
 
 ---
 ### Group 7
-**Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing]([GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing))
+**Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing)
 **Members:**
 - Jala Vishwa Keerthi (U2203109)
 - Cyriac James Boby (U2203073)
