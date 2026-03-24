@@ -5,32 +5,33 @@ This repository contains all the source code and final reports for the final yea
 ---
 
 ## Projects
+---
 
 ### Group 2
 
-*Project:* [Corporate Device Control Suite](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%202%20Corporate%20Device%20Control%20Suite)
-*Members:*
+**Project:** [Corporate Device Control Suite](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%202%20Corporate%20Device%20Control%20Suite)
+**Members:**
 
 - Muhammed S. Suhail (U2203144)
 - Deril Jose Thirunilath (U2203076)
 - Juan Jude Pereira (U2203124)
 - Evana Rachel Kurian (U2203091)
 
-*Guide:* Mr. Paul Augustine
+**Guide:** Mr. Paul Augustine
 
 ---
 
 ### Group 3
 
-*Project:* [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%203%20-%20XNFRec)
-*Members:*
+**Project:** [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%203%20-%20XNFRec)
+**Members:**
 
 - Johaan P Varghese(U2203118)
 - Maria Thomas Manavalan (U2203137)
 - John S Kakkassery (U2203120)
 - Glenda Pinhero (U22030100)
 
-*Guide:* Ms. Mehbooba P Shareef
+**Guide:** Ms. Mehbooba P Shareef
 
 ---
 
