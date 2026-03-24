@@ -1,0 +1,20 @@
+meta {
+  name: Translate
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{dev}}/translate
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {"text":"ഇന്നലെ നീ എവിടെയായിരുന്നു? ഞാൻ നിന്നെ വിളിച്ചു, പക്ഷേ ഫോൺ എടുക്കുന്നില്ലായിരുന്നു. എന്തെങ്കിലും പ്രശ്നമുണ്ടായിരുന്നോ?"}
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

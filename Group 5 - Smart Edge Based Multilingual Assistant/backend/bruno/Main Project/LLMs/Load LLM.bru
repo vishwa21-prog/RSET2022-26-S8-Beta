@@ -1,0 +1,22 @@
+meta {
+  name: Load LLM
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{dev}}/load_llm
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+      "name": "smolLM.gguf"
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
